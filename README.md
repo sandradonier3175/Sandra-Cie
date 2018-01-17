@@ -8,8 +8,8 @@ Aquarelles & Croquis
 <body>
 <img src="http://img.over-blog-kiwi.com/1/49/20/96/20150706/ob_64f14e_15-04-22-4.jpg">
   
-<h1 style="background-color:DodgerBlue;color:White;"">Around the world</h1>
-<p style="background-color:WhiteSmoke;color:DogerBlue;";">Check my last trip</p>
+<h1 style="background-color:DodgerBlue;color:White;">Around the world</h1>
+<p style="background-color:WhiteSmoke;color:DogerBlue;">Check my last trip</p>
 
 </body>
 </html>
