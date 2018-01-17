@@ -16,8 +16,6 @@ header, footer {
 nav {
     float: left;
     max-width: 160px;
-    margin: 0;
-    padding: 1em;
 }
 
 nav ul {
@@ -30,8 +28,7 @@ nav ul a {
 }
 
 article {
-    margin-left: 170px;
-    border-left: 1px solid gray;
+  
     padding: 1em;
     overflow: hidden;
 }
