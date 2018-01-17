@@ -41,14 +41,6 @@ article {
 <header>
    <h1>sandra donier</h1>
 </header>
-  
-<nav>
-  <ul>
-    <li><a href="#">London</a></li>
-    <li><a href="#">Paris</a></li>
-    <li><a href="#">Tokyo</a></li>
-  </ul>
-</nav>
 
 <article>
   <h1>A little overview</h1>
