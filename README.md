@@ -9,7 +9,7 @@ Aquarelles & Croquis
 <body>
 
 <h1>This is a Heading</h1>
-<p>This is a paragraph.</p>
+<p>Check my last trip</p>
 
 </body>
 </html>
