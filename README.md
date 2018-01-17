@@ -8,7 +8,7 @@ Aquarelles & Croquis
 </head>
 <body>
 
-<h1>This is a Heading</h1>
+<h1>Around the world</h1>
 <p>Check my last trip</p>
 
 </body>
