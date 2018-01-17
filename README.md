@@ -39,7 +39,7 @@ article {
 <div class="container">
 
 <header>
-   <h1>City Gallery</h1>
+   <h1>sandra donier</h1>
 </header>
   
 <nav>
